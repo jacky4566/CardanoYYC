@@ -1,0 +1,39 @@
+{
+  "info": {
+    "url_png_icon_64x64": "http(s) url to pool icon",
+    "url_png_logo": "http(s) url to pool logo",
+    "location": "Calgary, Alberta",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": ""
+    },
+    "rss": "http(s) url to valid RSS feed"
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "1795531808124bd8bf39943b5cb453db0f74115e840c04e02015550c"
+  ],
+  "when-satured-then-recommend": [
+    "2418ecaae0488bb393a33d4d922aeeb0a7eb7d1f370c158767c13f02"
+  ]
+}
