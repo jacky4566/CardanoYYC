@@ -1,6 +1,7 @@
 {
-"name": "CardanoYYC",
-"description": "A Calgary based Cardano Pool supporting local",
-"ticker": "YYC",
-"homepage": "https://cardanoyyc.ca/"
+  "name": "CardanoYYC",
+  "description": "A Calgary based Cardano Pool supporting local",
+  "ticker": "YYC",
+  "homepage": "https://cardanoyyc.ca/",
+  "extended": "https://bit.ly/3ovjVI5"
 }
