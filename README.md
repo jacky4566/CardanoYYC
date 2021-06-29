@@ -2,7 +2,7 @@
 ## POOL ID: YYC
 
 Welcome,
-CardanoYYC is run locally here in Calgary. 
+CardanoYYC is run locally here in Calgary, AB. 
 Hardware includes 2x Rasberry pi 8GB with SSD and a high speed reliable internet connection.
 Main discussion happens here: https://forums.beyond.ca/threads/414755-Beyond-YYC-official-Cardano-ADA-pool!
 
@@ -28,7 +28,7 @@ Ending Epoch 310 all delegators are guaranteed 5% annualized.
 
 [Pool Hardware stats (Please PM for access)](http://dashboard.cardanoyyc.ca/)
 
-[NDAX.IO Crypto Exchange (affiliate link)](https://one.ndax.io/bfP5Xn)
+[NDAX.IO Crypto Exchange Canada (affiliate link)](https://one.ndax.io/bfP5Xn)
 
 
 # Pool TODO list:
