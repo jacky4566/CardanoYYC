@@ -22,13 +22,13 @@ Ending Epoch 310 all delegators are guaranteed 5% annualized.
 
 # Useful links
 
-[YYC Adapools Stats](URL="https://adapools.org/pool/1795531808124bd8bf39943b5cb453db0f74115e840c04e02015550c")
+[YYC Adapools Stats](https://adapools.org/pool/1795531808124bd8bf39943b5cb453db0f74115e840c04e02015550c)
 
-[Cardano staking basics](URL="https://viperstaking.com/ada-pools/cardano-staking-faq/")
+[Cardano staking basics](https://viperstaking.com/ada-pools/cardano-staking-faq/)
 
-[Pool Hardware stats (Please PM for access)](URL="http://dashboard.cardanoyyc.ca/")
+[Pool Hardware stats (Please PM for access)](http://dashboard.cardanoyyc.ca/)
 
-[NDAX.IO Crypto Exchange (affiliate link)](URL="https://one.ndax.io/bfP5Xn")
+[NDAX.IO Crypto Exchange (affiliate link)](https://one.ndax.io/bfP5Xn)
 
 
 # Pool TODO list:
