@@ -10,10 +10,6 @@ Main discussion happens here: https://forums.beyond.ca/threads/414755-Beyond-YYC
 
 This pool is taking 340 ADA per epoch PLUS 1.5% for operating costs and another 0.5% goes to Beyond.ca. A local Calgary dorum.
 
-# SIGN UP REWARDS!$$$
-
-Ending Epoch 310 all delegators are guaranteed 5% annualized. 
-
 # The Hardware:
 * 2x raspberry pi 4 8GB with POE hats and 256GB SSD
 * 1Gb fiber connection
