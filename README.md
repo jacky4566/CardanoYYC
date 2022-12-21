@@ -2,19 +2,18 @@
 ## POOL ID: YYC
 
 Welcome,
-CardanoYYC is run locally here in Calgary, AB. 
-Hardware includes 2x Rasberry pi 8GB with SSD and a high speed reliable internet connection.
+CardanoYYC is run locally here in Calgary, AB
 Main discussion happens here: https://forums.beyond.ca/threads/414755-Beyond-YYC-official-Cardano-ADA-pool!
 
 # Rewards
-
-This pool is taking 340 ADA per epoch PLUS 1.5% for operating costs and another 0.5% goes to Beyond.ca. A local Calgary dorum.
+This pool is taking 340 ADA per epoch PLUS 1.5% for operating costs and another 0.5% goes to Beyond.ca. A local Calgary forum.
 
 # The Hardware:
-* 2x raspberry pi 4 8GB with POE hats and 256GB SSD
-* 1Gb fiber connection
-
-
+* Produce and relay #1: BeeLink GTR5 Ryzen 9 5900HX (up to 4.6GHz), 1TB NVMe SSD
+* Relay #2, raspberry pi 4 8GB with POE hats and 256GB SSD
+* 1Gb Telus fiber connection
+* Local Backup solution: 20TB Synology NAS
+* Offsite backup: Encrypted OneDrive
 
 # Useful links
 
