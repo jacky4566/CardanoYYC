@@ -5,7 +5,7 @@ Welcome,
 CardanoYYC is run locally here in Calgary, AB
 Main discussion happens here: https://forums.beyond.ca/threads/414755-Beyond-YYC-official-Cardano-ADA-pool!
 
-# Dontaions
+# Donations
 This pool supports local charities by donating our 2% return back to our local charity. Children's Hopsital, AARCS Animel shelter, etc. 
 
 # The Hardware:
