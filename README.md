@@ -5,8 +5,8 @@ Welcome,
 CardanoYYC is run locally here in Calgary, AB
 Main discussion happens here: https://forums.beyond.ca/threads/414755-Beyond-YYC-official-Cardano-ADA-pool!
 
-# Rewards
-This pool is taking 340 ADA per epoch PLUS 1.5% for operating costs and another 0.5% goes to Beyond.ca. A local Calgary forum.
+# Dontaions
+This pool supports local charities by donating our 2% return back to our local charity. Children's Hopsital, AARCS Animel shelter, etc. 
 
 # The Hardware:
 * Produce and relay #1: BeeLink GTR5 Ryzen 9 5900HX (up to 4.6GHz), 1TB NVMe SSD
