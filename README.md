@@ -3,10 +3,6 @@
 
 Welcome,
 CardanoYYC is run locally here in Calgary, AB
-Main discussion happens here: https://forums.beyond.ca/threads/414755-Beyond-YYC-official-Cardano-ADA-pool!
-
-# Donations
-This pool supports local charities by donating our 2% return back to our local charity. Children's Hopsital, AARCS Animel shelter, etc. 
 
 # The Hardware:
 * Produce and relay #1: BeeLink GTR5 Ryzen 9 5900HX (up to 4.6GHz), 1TB NVMe SSD
@@ -25,9 +21,6 @@ This pool supports local charities by donating our 2% return back to our local c
 
 [NDAX.IO Crypto Exchange Canada (affiliate link)](https://one.ndax.io/bfP5Xn)
 
-
 # Pool TODO list:
 * Fill out more Metadata
 * Make a real website?
-* Add a 3rd relay once we have returns.
-* Add POE power backup and second WAN
